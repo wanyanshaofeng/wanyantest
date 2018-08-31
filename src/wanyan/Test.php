@@ -1,6 +1,6 @@
 <?php
 
-namespace  wanyanTest\wanyan;
+namespace  wanyantest\wanyan;
 
 class Test {
 
