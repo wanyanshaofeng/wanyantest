@@ -1,5 +1,5 @@
 {
-  "name": "wanyanshaofeng/wanyantest",
+  "name": "wanyantest/wanyan",
   "description": "Yii2 wanyan wanyantest",
   "keywords": [
     "yii2",
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "wanyantest\\": ""
+      "wanyantest\\": "src/"
     }
   },
   "config": {
