@@ -1,0 +1,30 @@
+{
+  "name": "wanyantest/wanyan",
+  "description": "Yii2 wanyan wanyantest",
+  "keywords": [
+    "yii2",
+    "wanyan"
+  ],
+
+  "type": "php-extension",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "wanyan water",
+      "email": "wanyanshaofeng@163.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0" 
+  },
+  "autoload": {
+    "psr-4": {
+      "wanyantest\\": ""
+    }
+  },
+  "config": {
+    "process-timeout": 1800
+  }
+}
