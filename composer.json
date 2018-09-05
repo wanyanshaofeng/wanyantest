@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Wanyantest\\Wanyan": "src/"
+      "Wanyantest\\Wanyan\\": "src/"
 
     }
   }
