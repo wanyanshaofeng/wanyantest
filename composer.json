@@ -1,8 +1,7 @@
 {
-  "name": "wanyantest/wanyan",
-  "description": "Yii2 wanyan wanyantest",
+  "name": "wanyanshaofeng/wanyantest",
+  "description": "wanyan wanyantest",
   "keywords": [
-    "yii2",
     "wanyan"
   ],
 
@@ -20,6 +19,6 @@
     "php": ">=5.4.0"
   },
    "autoload": {
-        "psr-4": {"Wanyantest\\": "src/wanyan"}
+        "psr-0": {"wanyan\\": "src/"}
     }
 }
