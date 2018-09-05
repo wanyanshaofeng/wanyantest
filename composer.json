@@ -19,6 +19,6 @@
     "php": ">=5.4.0"
   },
    "autoload": {
-        "psr-4": {"Wanyantest\\": "src/Wanyan"}
+        "psr-4": {"Wanyantest\\": "src/wanyan"}
     },
 }
