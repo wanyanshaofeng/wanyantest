@@ -1,5 +1,5 @@
 {
-  "name": "wanyantest/wanyan",
+  "name": "wanyanshaofeng/wanyantest",
   "description": "wanyan wanyantest",
   "keywords": [
     "wanyan"
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "wanyantest\\Wanyan\\": "src/"
+      "wanyanshaofeng\\Wanyantest\\": "src/"
     }
   }
 }
